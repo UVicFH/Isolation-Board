@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Isolation.PcbDoc   2/10/2018  6:42:27 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Isolation.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             2         PTH        0.61inch (15.53mm)
+T2      35mil (0.9mm)                                             Round             2         PTH        0.30inch (7.50mm)
+T3      39mil (1mm)                                               Round             4         PTH        1.60inch (40.64mm)
+T4      59mil (1.5mm)                                             Round             12        PTH        7.43inch (188.84mm)
+T5      63mil (1.6mm)                                             Round             8         PTH        4.66inch (118.32mm)
+T6      157mil (4mm)                                              Round             4         PTH        10.75inch (273.05mm)
+T7      102mil (2.6mm)                                            Round             2         NPTH       1.99inch (50.60mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              34
+
+Total Processing Time (hh:mm:ss) : 00:00:00
