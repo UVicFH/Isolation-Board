@@ -1,0 +1,36 @@
+Change Component DesignItemId : Designator=C3 Old DesignItemId=C0603 New DesignItemId=C0603_1
+Change Component DesignItemId : Designator=C5 Old DesignItemId=C0603 New DesignItemId=C0603_1
+Change Component DesignItemId : Designator=C4 Old DesignItemId=Cap Pol1 New DesignItemId=Cap Pol1_1
+Change Component Comment : Designator=R7 Old Comment= New Comment=Res1
+Change Component Library : Designator=J1 Old Library=Isolation2new.IntLib New Library=Isolation.IntLib
+Change Component Library : Designator=J2 Old Library=Isolation2new.IntLib New Library=Isolation.IntLib
+Change Component Library : Designator=J3 Old Library=Isolation2new.IntLib New Library=Isolation.IntLib
+Change Component Library : Designator=R9 Old Library=Isolation2new.IntLib New Library=Isolation.IntLib
+Change Component Library : Designator=R10 Old Library=Isolation2new.IntLib New Library=Isolation.IntLib
+Change Component Library : Designator=TSVP DC-DC1 Old Library=Isolation2new.IntLib New Library=Isolation.IntLib
+Change Component Library : Designator=C2 Old Library=KEMET Chip Capacitor.IntLib New Library=Isolation.IntLib
+Change Component Library : Designator=C3 Old Library=KEMET Chip Capacitor.IntLib New Library=Isolation.IntLib
+Change Component Library : Designator=C5 Old Library=KEMET Chip Capacitor.IntLib New Library=Isolation.IntLib
+Change Component Library : Designator=C1 Old Library=Miscellaneous Devices.IntLib New Library=Isolation.IntLib
+Change Component Library : Designator=R7 Old Library=Miscellaneous Devices.IntLib New Library=Isolation.IntLib
+Change Component Library : Designator=C4 Old Library=Nichicon100uFCap.IntLib New Library=Isolation.IntLib
+Change Component Library : Designator=R8 Old Library=Panasonic Resistor.IntLib New Library=Isolation.IntLib
+Change Component Library : Designator=L1 Old Library=UVICHybridLibrary.SchLib New Library=Isolation.IntLib
+Change component parameters: Designator = "C5"; Footprint = "2225 Package"; UniqueID = "\JGAXCSDY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "1608 [0603]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEITA"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/kemet/web/homepage/kechome.nsf/vapubfilesname/F3102TA.pdf/$file/F3102TA.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Silkscreen size reduced."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDocument"; Value = "Mar-2001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "720-1136-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"

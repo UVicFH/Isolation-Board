@@ -1,6 +1,0 @@
-Change Component Comment : Designator=TS Old Comment=+  - New Comment=Header 2
-Change Component Comment : Designator=TSMP Old Comment=+  - New Comment=Header 3
-Change Component Comment : Designator=TSAL Old Comment= New Comment=Header 1
-Change Component Designator: OldDesignator=TSAL NewDesignator=GLV
-Added Member To Class: ClassName=Isolation Member=Component R9 10K 5W
-Change Room Scope: Old Scope=InComponentClass('Outside Board Components') New Scope=InComponentClass('Isolation')
