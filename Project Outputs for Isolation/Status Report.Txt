@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Isolation.PrjPcb]
+   Generated File[Isolation.GTO]
+   Generated File[Isolation.GTP]
+   Generated File[Isolation.GTS]
+   Generated File[Isolation.GTL]
+   Generated File[Isolation.GBL]
+   Generated File[Isolation.GBS]
+   Generated File[Isolation.GBP]
+   Generated File[Isolation.GBO]
+   Generated File[Isolation.GM1]
+   Generated File[Isolation.GM3]
+   Generated File[Isolation.GM13]
+   Generated File[Isolation.GM15]
+   Generated File[Isolation.GM20]
+   Generated File[Isolation.GKO]
+   Generated File[Isolation.RUL]
+   Generated File[Isolation.EXTREP]
+   Generated File[Isolation.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 11:07:13 PM On 2018-12-08
