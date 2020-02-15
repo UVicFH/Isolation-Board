@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetJ3_1 Pin=R9-2
+Removed Pin From Net: NetName=NetJ3_3 Pin=R10-2
+Added Component: Designator=P1(MX150L 2pin)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "19427-0040"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM17504-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P2(MX150L 4pin)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "19427-0032"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM17505-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=TSVP 12V Pin=P1-2
+Added Pin To Net: NetName=TS+ Pin=P2-1
+Added Pin To Net: NetName=TS- Pin=P2-2
+Added Pin To Net: NetName=NetJ3_3 Pin=P2-3
+Added Pin To Net: NetName=NetJ3_1 Pin=P2-4
+Added Pin To Net: NetName=NetJ3_3 Pin=R9-2
+Added Pin To Net: NetName=NetJ3_1 Pin=R10-2
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=NetP2_4
+Change Net Name : Old Net Name=NetJ3_3 New Net Name=NetP2_3
+Added Member To Class: ClassName=Isolation Member=Component P1 19427-0040
+Added Member To Class: ClassName=Isolation Member=Component P2 19427-0032
